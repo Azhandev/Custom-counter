@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    padding:20px;
+}
+
+.btn,
+.input-field {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn button {
+    padding: 20px;
+    font-size: 20px;
+
+}
+
+.input-field {
+    margin: 15px 0px;
+}
+
+.input-field input {
+    margin: 0px 10px;
+    padding: 10px;
+}
+.reset{
+    padding:10px;
+}
+ 
